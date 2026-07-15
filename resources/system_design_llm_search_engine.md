@@ -1,6 +1,6 @@
 # System Design Capstone: An LLM-Powered Search Engine
 
-> 🔴 **Build 301 · Interview capstone.** This is a composed, end-to-end design, not a course. It assumes you have worked the [Build AI](../journeys/build.md) journey — RAG, agents, evaluation, and security — and want to see how those pieces fit into one production system. It doubles as a **system-design interview drill**: read it once to learn the shape, then practice presenting it from a blank page in 45 minutes.
+> 🔴 **Build 301 · Interview capstone.** This is a composed, end-to-end design, not a course. It assumes you have worked the [Build AI](../journeys/build.md) journey — RAG, agents, evaluation, and security — and want to see how those pieces fit into one production system. It doubles as a **system-design interview drill**: read it once to learn the shape, then practice presenting it from a blank page in 45 minutes. Its sibling, [A Customer Support Agent](system_design_customer_support_agent.md), designs a system that *acts* rather than just answers.
 
 **Tags:** `Level 🔴 · Format 📖 Read · Source ⭐ LevelUp Labs original · 2026`.
 
@@ -181,6 +181,7 @@ The recurring move throughout: **state the decision, then the trade-off it makes
 - Reranking and search → [agentic search and retrieval table](../research_updates/agentic_search_retrieval_table.md)
 - Evaluation → [AI Evals for Everyone](../free_courses/ai_evals_for_everyone/README.md), [Evaluation and Observability](../topics/evaluation.md)
 - Guardrails → [Securing Agentic AI Systems](securing_agentic_ai_systems.md), [Safety and Security](../topics/safety-security.md)
+- Sibling capstone → [A Customer Support Agent](system_design_customer_support_agent.md)
 
 ---
 
