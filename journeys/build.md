@@ -210,7 +210,11 @@ Advanced research tables that inform production choices live in [Understand 201]
 
 ### System design
 
-`[planned: build phase]` No system-design capstones exist in the repo yet. This cell is reserved for composed, end-to-end designs (for example an LLM-powered search engine or a customer support agent) once they are built.
+Composed, end-to-end designs that pull retrieval, tool use, generation, and evaluation into one system:
+
+- **[System Design Capstone: An LLM-Powered Search Engine](../resources/system_design_llm_search_engine.md)** ⭐ 📖 (2026) 🔴 Build 301: an answer-engine design walkthrough that doubles as a system-design interview drill.
+
+More capstones (for example a customer support agent) are `[planned: build phase]`.
 
 ---
 
