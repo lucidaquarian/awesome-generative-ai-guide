@@ -71,7 +71,7 @@ A full **[Role-Based Interview Prep hub](interview_prep/README.md)**: pick your 
 - 🚀 **[Forward-Deployed Engineer](interview_prep/roles/forward-deployed-engineer/README.md)**: build, integrate, and deploy at the customer under ambiguity.
 - 🧭 **[AI Strategist](interview_prep/roles/ai-strategist/README.md)**: strategy, ROI, build vs buy, governance, and change management.
 
-Everyone starts with the shared **[60 GenAI Interview Questions](interview_prep/60_gen_ai_questions.md)**, then works their role. System-design interview drills are planned for a later build phase.
+Everyone starts with the shared **[60 GenAI Interview Questions](interview_prep/60_gen_ai_questions.md)**, then works their role. System-design drills: **[Designing an LLM-Powered Search Engine](resources/system_design_llm_search_engine.md)** and **[Designing a Customer Support Agent](resources/system_design_customer_support_agent.md)**; more are planned for a later build phase.
 
 ---
 

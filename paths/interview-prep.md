@@ -26,7 +26,12 @@ Different roles are tested on different things. See the **[Role-Based Interview 
 
 ## What comes next
 
-System-design interview drills (for example designing an LLM-powered search engine or a support agent) are `[planned: build phase]`.
+Practice the system-design drills, each an end-to-end design with a "how to present it in 45 minutes" section:
+
+- **[An LLM-Powered Search Engine](../resources/system_design_llm_search_engine.md)** 🔴 — retrieve and answer.
+- **[A Customer Support Agent](../resources/system_design_customer_support_agent.md)** 🔴 — retrieve, decide, and act (tool use, escalation, safety).
+
+More drills are `[planned: build phase]`.
 
 ---
 
