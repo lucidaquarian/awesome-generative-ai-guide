@@ -46,8 +46,8 @@ Start from zero and learn step-by-step how to build AI evaluation systems. This 
 6. **[Production Challenges](./chapters/06_production_challenge.md)** - Why production breaks all your assumptions (and evals sometimes)
 7. **[Production Monitoring Strategies](./chapters/07_production_monitoring_strategies.md)** - Real-world monitoring to understand emerging patterns
 8. **[The Complete Evaluation Process](./chapters/08_evaluation_process.md)** - Building confidence incrementally through iterations
-9. **[Common Misconceptions About AI Evaluation](./chapters/09_case_studies.md)** - Real examples from AI products at scale
-10. **[Glossary of Terms](./chapters/10_common_pitfalls.md)** - Summary of terms generally used in evaluation process
+9. **[Common Misconceptions About AI Evaluation](./chapters/09_common_misconceptions.md)** - Real examples from AI products at scale
+10. **[Glossary of Terms](./chapters/10_glossary_of_terms.md)** - Summary of terms generally used in evaluation process
 
 
 ## 🚀 Who Should Take This Course?

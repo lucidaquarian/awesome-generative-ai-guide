@@ -2511,7 +2511,7 @@ Build security into your agents from the start, maintain it continuously, and st
 
 ## Resources and Further Reading
 
-For comprehensive references, frameworks, and case studies mentioned throughout this article, see [resources.md](resources.md).
+For comprehensive references, frameworks, and case studies mentioned throughout this article, see the key resources below.
 
 **Key Frameworks:**
 - [OWASP Top 10 for Agentic Applications 2026](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/)

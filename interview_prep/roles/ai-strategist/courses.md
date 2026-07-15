@@ -9,7 +9,7 @@ The best free courses for an AI Strategist, starting with this repository's own 
 - [Agentic AI Crash Course](../../../free_courses/agentic_ai_crash_course/README.md): the fastest way to build correct intuition about agents, tools, memory, and when they are worth it. Directly prepares you for the agents questions in the fluency round.
 - [AI Evals for Everyone](../../../free_courses/ai_evals_for_everyone/README.md): builds the evaluation fluency that is non-negotiable for this role. If you can only do one repo course before the fluency round, do this one, because "how do you know it works" is asked in every loop.
 - [Generative AI Genius](../../../free_courses/generative_ai_genius/README.md): a broad, plain-language grounding in generative AI for those coming from a business background. Builds the vocabulary you need to translate for stakeholders.
-- [Applied LLMs Mastery 2024](../../../free_courses/Applied_LLMs_Mastery_2024/README.md): a structured walk through the applied LLM stack (prompting, RAG, fine-tuning, evaluation, deployment). Builds the end-to-end picture a strategist must hold to pressure-test a technical plan.
+- [Applied LLMs Mastery 2024](../../../free_courses/Applied_LLMs_Mastery_2024/README.MD): a structured walk through the applied LLM stack (prompting, RAG, fine-tuning, evaluation, deployment). Builds the end-to-end picture a strategist must hold to pressure-test a technical plan.
 - The full [courses index](../../../courses.md) in this repo, grouped by topic, if you want to go deeper on any single area (RAG, fine-tuning, agents, production).
 
 ---
