@@ -50,7 +50,7 @@ RAG is the most common take-home and a core system-design topic, so build at lea
 Broad courses that cover the whole role, good for filling gaps fast:
 
 - [Generative AI Genius](../../../free_courses/generative_ai_genius/README.md): this repository's broad generative AI course.
-- [Applied LLMs Mastery 2024](../../../free_courses/Applied_LLMs_Mastery_2024/README.md): a repo course spanning prompting, RAG, fine-tuning, evaluation, and deployment (2024, aging but still a solid map).
+- [Applied LLMs Mastery 2024](../../../free_courses/Applied_LLMs_Mastery_2024/README.MD): a repo course spanning prompting, RAG, fine-tuning, evaluation, and deployment (2024, aging but still a solid map).
 - [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) (Microsoft, kept current): a free, structured, hands-on course across the whole GenAI stack. Builds breadth with runnable lessons.
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) (2025): transformers, tokenization, using and adapting models. Builds fundamentals with code.
 
