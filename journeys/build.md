@@ -212,9 +212,10 @@ Advanced research tables that inform production choices live in [Understand 201]
 
 Composed, end-to-end designs that pull retrieval, tool use, generation, and evaluation into one system:
 
-- **[System Design Capstone: An LLM-Powered Search Engine](../resources/system_design_llm_search_engine.md)** ⭐ 📖 (2026) 🔴 Build 301: an answer-engine design walkthrough that doubles as a system-design interview drill.
+- **[System Design Capstone: An LLM-Powered Search Engine](../resources/system_design_llm_search_engine.md)** ⭐ 📖 (2026) 🔴 Build 301: an answer-engine design (retrieve and answer) that doubles as a system-design interview drill.
+- **[System Design Capstone: A Customer Support Agent](../resources/system_design_customer_support_agent.md)** ⭐ 📖 (2026) 🔴 Build 301: a side-effecting agent design (retrieve, decide, and act) covering tool use, escalation, and safety.
 
-More capstones (for example a customer support agent) are `[planned: build phase]`.
+More capstones are `[planned: build phase]`.
 
 ---
 

@@ -20,7 +20,12 @@ A curated sequence through the Build journey toward one outcome: shipping a real
 
 ## What comes next
 
-Compose everything on this path into one end-to-end design: **[System Design Capstone: An LLM-Powered Search Engine](../resources/system_design_llm_search_engine.md)** ⭐ 📖 (2026) 🔴, which pulls retrieval, tool use, generation, and evaluation together. More capstones (for example a customer support agent) are `[planned: build phase]`.
+Compose everything on this path into one end-to-end design with the system-design capstones, which pull retrieval, tool use, generation, and evaluation together:
+
+- **[An LLM-Powered Search Engine](../resources/system_design_llm_search_engine.md)** ⭐ 📖 (2026) 🔴: retrieve and answer.
+- **[A Customer Support Agent](../resources/system_design_customer_support_agent.md)** ⭐ 📖 (2026) 🔴: retrieve, decide, and act, with tool use, escalation, and safety.
+
+More capstones are `[planned: build phase]`.
 
 ---
 
